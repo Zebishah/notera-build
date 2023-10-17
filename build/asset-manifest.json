@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39a66d4a.css",
+    "main.js": "/static/js/main.cbc21384.js",
+    "static/js/787.0a52803e.chunk.js": "/static/js/787.0a52803e.chunk.js",
+    "static/media/wallpaperflare.com_wallpaper (2).jpg": "/static/media/wallpaperflare.com_wallpaper (2).a65546625eddfbb120a6.jpg",
+    "static/media/Itachi.jpg": "/static/media/Itachi.e8f66d7aedaf45efb66b.jpg",
+    "static/media/wallpaperflare.com_wallpaper (3).jpg": "/static/media/wallpaperflare.com_wallpaper (3).4b89c7f641123e56aa52.jpg",
+    "index.html": "/index.html",
+    "main.39a66d4a.css.map": "/static/css/main.39a66d4a.css.map",
+    "main.cbc21384.js.map": "/static/js/main.cbc21384.js.map",
+    "787.0a52803e.chunk.js.map": "/static/js/787.0a52803e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a66d4a.css",
+    "static/js/main.cbc21384.js"
+  ]
+}
